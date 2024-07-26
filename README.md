@@ -11,7 +11,7 @@ Web scraping refers to the process of automatically extracting data from web pag
 https://www.dell.com/en-uk/shop/scc/sr/laptops/inspiron-laptops
 
 ### Tools:
-- Python (version 3.9.7)
+- Python
 - Selenium (version 3.141.0)
 - Pandas (version 1.4.2)
 
@@ -31,9 +31,10 @@ It requires no input from the user. Once you run the script it will automaticall
 https://twitchtracker.com/channels/ranking/french
 
 ### Tools:
-- Python (version 3.9.7)
-- Selenium (version 3.141.0)
-- Pandas (version 1.4.2)
+- python
+- selenium (version 3.141.0)
+- pandas (version 1.4.2)
+- ast (version 3.12.4)
 
 ### How to run this code
 It requires the starting and ending pages numbers.
