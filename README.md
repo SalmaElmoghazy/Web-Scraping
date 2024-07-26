@@ -32,7 +32,7 @@ https://twitchtracker.com/channels/ranking/french
 
 ### Tools:
 - python
-- selenium (version 3.141.0)
+- selenium (version 4.15.2)
 - pandas (version 1.4.2)
 - ast (version 3.12.4)
 
@@ -43,3 +43,22 @@ It requires the starting and ending pages numbers.
 ![image](https://github.com/user-attachments/assets/f00c1ad2-60ed-4535-aaea-a9d416b91b51)
 - A pandas dataframe
 - A CSV file
+
+## `03` Techsoup Products Catalogue
+![image](https://github.com/user-attachments/assets/25f88144-c860-4e8f-b0e8-dc858ad3337d) ![image](https://github.com/user-attachments/assets/bb3203b4-2681-466b-b1c5-80dd6e416e0f)
+
+### URL: 
+https://www.techsoup.ca/product-catalog
+
+### Tools:
+- python
+- time
+- Selenium (version 3.141.0)
+- Pandas (version 1.4.2)
+
+### Output
+![image](https://github.com/user-attachments/assets/53a2c727-00a3-4069-bf38-fb9ce2b92192)
+- A pandas dataframe
+- A CSV file
+
+
