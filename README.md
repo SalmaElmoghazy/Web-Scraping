@@ -61,4 +61,20 @@ https://www.techsoup.ca/product-catalog
 - A pandas dataframe
 - A CSV file
 
+## `04` Factories Info Multi-page Table
+![image](https://github.com/user-attachments/assets/04bb3ed6-cf36-48e9-88cf-fa45b931597b)
+
+### URL: 
+[https://www.techsoup.ca/product-catalog](https://lcgpa.gov.sa/ar/Regulations/Docs-Lists/Pages/FactoriesList.aspx)
+
+### Tools:
+- python
+- Selenium (version 3.141.0)
+- Pandas (version 1.4.2)
+
+### Output
+![image](https://github.com/user-attachments/assets/2d667b52-ce5c-49d6-bd81-4dfe6e666a4d)
+- A pandas dataframe
+- A CSV file
+
 
