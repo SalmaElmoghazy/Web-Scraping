@@ -8,6 +8,7 @@ Web scraping refers to the process of automatically extracting data from web pag
 
 
 **URL:** https://www.dell.com/en-uk/shop/scc/sr/laptops/inspiron-laptops
+
 **Tools:**
 - Python (version 3.9.7)
 - Selenium (version 3.141.0)
