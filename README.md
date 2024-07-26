@@ -18,5 +18,6 @@ Web scraping refers to the process of automatically extracting data from web pag
 It requires no input from the user. Once you run the script it will automatically collect the desired data.
 
 **Output**
+![image](https://github.com/user-attachments/assets/77e9da3d-3969-4017-ad25-c50d0f1550d9)
 - A pandas dataframe
 - A CSV file
