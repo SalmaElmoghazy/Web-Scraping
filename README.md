@@ -7,17 +7,38 @@ Web scraping refers to the process of automatically extracting data from web pag
 
 
 
-**URL:** https://www.dell.com/en-uk/shop/scc/sr/laptops/inspiron-laptops
+### URL:
+https://www.dell.com/en-uk/shop/scc/sr/laptops/inspiron-laptops
 
-**Tools:**
+### Tools:
 - Python (version 3.9.7)
 - Selenium (version 3.141.0)
 - Pandas (version 1.4.2)
 
-**How to run this code**
+### How to run this code
 It requires no input from the user. Once you run the script it will automatically collect the desired data.
 
-**Output**
+### Output
 ![image](https://github.com/user-attachments/assets/77e9da3d-3969-4017-ad25-c50d0f1550d9)
+- A pandas dataframe
+- A CSV file
+
+
+## `02` French Twitch Top Streamers
+![image](https://github.com/user-attachments/assets/ecc20165-ec39-4351-b2f4-4664382b310e)
+
+### URL:
+https://twitchtracker.com/channels/ranking/french
+
+### Tools:
+- Python (version 3.9.7)
+- Selenium (version 3.141.0)
+- Pandas (version 1.4.2)
+
+### How to run this code
+It requires the starting and ending pages numbers.
+
+### Output
+![image](https://github.com/user-attachments/assets/f00c1ad2-60ed-4535-aaea-a9d416b91b51)
 - A pandas dataframe
 - A CSV file
