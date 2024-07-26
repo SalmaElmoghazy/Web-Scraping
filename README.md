@@ -24,7 +24,7 @@ It requires no input from the user. Once you run the script it will automaticall
 - A CSV file
 
 
-## `02` French Twitch Top Streamers
+## `02` French Twitch Top Streamers Multi-page Table
 ![image](https://github.com/user-attachments/assets/ecc20165-ec39-4351-b2f4-4664382b310e)
 
 ### URL:
